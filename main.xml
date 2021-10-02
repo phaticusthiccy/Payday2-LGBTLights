@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+-<mod color="Color(1,1,1)" author="Phaticusthiccy" name="LGBT Laser Grips">
+
+<AssetUpdates version_is_number="true" install_directory="mods/" provider="modworkshop" version="1" id="26875"/>
+
+
+-<Localization default="english.txt" directory="loc">
+
+<loc language="english" file="english.txt"/>
+
+</Localization>
+
+</mod>
