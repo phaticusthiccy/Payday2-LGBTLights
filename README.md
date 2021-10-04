@@ -20,6 +20,11 @@ Note: If you cannot see `mod_overrides` folder. You can create one.
 
 Have fun.
 
+## Contents 
+- cursedlaser.lua => Corrupted Laser
+- violatlaser.lua => Violet Laser
+- lgbtlaser.lua => Rainbow Laser
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
