@@ -24,6 +24,7 @@ Have fun.
 - cursedlaser.lua => Corrupted Laser
 - violatlaser.lua => Violet Laser
 - lgbtlaser.lua => Rainbow Laser
+- unglow.lua => Glow Free Laser
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
