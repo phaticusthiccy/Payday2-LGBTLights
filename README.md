@@ -4,9 +4,9 @@ This is a custom laser grip for Payday 2 game.
 It based on LGBT colors (Red (the longest wavelength at around 780 nm) through to Violet (the shortest wavelength in the sequence at 380 nm))
 This is not a mod. It just add-on. You can add it easily cracked or orginal payday game.
 
-Steam = C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2
+Steam = `C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2`
 
-Steam Mod= C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assests\mod_overrides
+Steam Mod= `C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assests\mod_overrides`
 
 ## Installation
 
